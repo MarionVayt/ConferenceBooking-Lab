@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\ConferenceBookingApi.csproj": {}
+    "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\ConferenceBookingApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\ConferenceBookingApi.csproj": {
+    "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\ConferenceBookingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
+        "projectUniqueName": "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
         "projectName": "ConferenceBookingApi",
-        "projectPath": "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
+        "projectPath": "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
         "packagesPath": "C:\\Users\\vusat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\obj\\",
+        "outputPath": "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vusat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vusat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -84,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\vusat\\.dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\vusat\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

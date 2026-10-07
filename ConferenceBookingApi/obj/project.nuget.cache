@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSIdyL4hEjs=",
+  "dgSpecHash": "TOiGIpizZMI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vusat\\Desktop\\ConferenceBookingApi\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
+  "projectFilePath": "C:\\Users\\vusat\\Desktop\\КПІ 5 сем\\Розробка вебзастосунків\\Lab1\\conference-booking-api\\ConferenceBookingApi\\ConferenceBookingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vusat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vusat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
